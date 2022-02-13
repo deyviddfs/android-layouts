@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLayouts</string>
+    <string name="constraint">Constraint</string>
+    <string name="linear_vertical">Linear Vertical</string>
+    <string name="linear_horizontal">Linear Horizontal</string>
+    <string name="frame">Frame</string>
+</resources>
